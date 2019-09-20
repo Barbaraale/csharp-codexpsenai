@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Cálculos\obj\Debug\netcoreapp2.2\Cálculos.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Cálculos\obj\Debug\netcoreapp2.2\Cálculos.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Cálculos\obj\Debug\netcoreapp2.2\Cálculos.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Cálculos\obj\Debug\netcoreapp2.2\Cálculos.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Cálculos\bin\Debug\netcoreapp2.2\Cálculos.deps.json
+C:\Users\fic\Desktop\Csharp\Cálculos\bin\Debug\netcoreapp2.2\Cálculos.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Cálculos\bin\Debug\netcoreapp2.2\Cálculos.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Cálculos\bin\Debug\netcoreapp2.2\Cálculos.dll
+C:\Users\fic\Desktop\Csharp\Cálculos\bin\Debug\netcoreapp2.2\Cálculos.pdb
+C:\Users\fic\Desktop\Csharp\Cálculos\obj\Debug\netcoreapp2.2\Cálculos.dll
+C:\Users\fic\Desktop\Csharp\Cálculos\obj\Debug\netcoreapp2.2\Cálculos.pdb

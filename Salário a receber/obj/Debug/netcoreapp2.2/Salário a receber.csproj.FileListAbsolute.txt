@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Salário a receber\bin\Debug\netcoreapp2.2\Salário a receber.deps.json
+C:\Users\fic\Desktop\Csharp\Salário a receber\bin\Debug\netcoreapp2.2\Salário a receber.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Salário a receber\bin\Debug\netcoreapp2.2\Salário a receber.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Salário a receber\bin\Debug\netcoreapp2.2\Salário a receber.dll
+C:\Users\fic\Desktop\Csharp\Salário a receber\bin\Debug\netcoreapp2.2\Salário a receber.pdb
+C:\Users\fic\Desktop\Csharp\Salário a receber\obj\Debug\netcoreapp2.2\Salário a receber.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Salário a receber\obj\Debug\netcoreapp2.2\Salário a receber.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Salário a receber\obj\Debug\netcoreapp2.2\Salário a receber.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Salário a receber\obj\Debug\netcoreapp2.2\Salário a receber.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Salário a receber\obj\Debug\netcoreapp2.2\Salário a receber.dll
+C:\Users\fic\Desktop\Csharp\Salário a receber\obj\Debug\netcoreapp2.2\Salário a receber.pdb

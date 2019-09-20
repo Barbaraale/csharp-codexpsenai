@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Idade semana\bin\Debug\netcoreapp2.2\Idade semana.deps.json
+C:\Users\fic\Desktop\Csharp\Idade semana\bin\Debug\netcoreapp2.2\Idade semana.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Idade semana\bin\Debug\netcoreapp2.2\Idade semana.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Idade semana\bin\Debug\netcoreapp2.2\Idade semana.dll
+C:\Users\fic\Desktop\Csharp\Idade semana\bin\Debug\netcoreapp2.2\Idade semana.pdb
+C:\Users\fic\Desktop\Csharp\Idade semana\obj\Debug\netcoreapp2.2\Idade semana.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Idade semana\obj\Debug\netcoreapp2.2\Idade semana.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Idade semana\obj\Debug\netcoreapp2.2\Idade semana.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Idade semana\obj\Debug\netcoreapp2.2\Idade semana.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Idade semana\obj\Debug\netcoreapp2.2\Idade semana.dll
+C:\Users\fic\Desktop\Csharp\Idade semana\obj\Debug\netcoreapp2.2\Idade semana.pdb

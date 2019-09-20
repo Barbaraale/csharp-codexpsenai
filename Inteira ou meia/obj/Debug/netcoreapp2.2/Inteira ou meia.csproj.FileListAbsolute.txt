@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Inteira ou meia\bin\Debug\netcoreapp2.2\Inteira ou meia.deps.json
+C:\Users\fic\Desktop\Csharp\Inteira ou meia\bin\Debug\netcoreapp2.2\Inteira ou meia.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Inteira ou meia\bin\Debug\netcoreapp2.2\Inteira ou meia.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Inteira ou meia\bin\Debug\netcoreapp2.2\Inteira ou meia.dll
+C:\Users\fic\Desktop\Csharp\Inteira ou meia\bin\Debug\netcoreapp2.2\Inteira ou meia.pdb
+C:\Users\fic\Desktop\Csharp\Inteira ou meia\obj\Debug\netcoreapp2.2\Inteira ou meia.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Inteira ou meia\obj\Debug\netcoreapp2.2\Inteira ou meia.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Inteira ou meia\obj\Debug\netcoreapp2.2\Inteira ou meia.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Inteira ou meia\obj\Debug\netcoreapp2.2\Inteira ou meia.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Inteira ou meia\obj\Debug\netcoreapp2.2\Inteira ou meia.dll
+C:\Users\fic\Desktop\Csharp\Inteira ou meia\obj\Debug\netcoreapp2.2\Inteira ou meia.pdb

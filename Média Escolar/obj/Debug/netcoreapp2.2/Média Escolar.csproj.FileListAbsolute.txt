@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Média Escolar\obj\Debug\netcoreapp2.2\Média Escolar.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Média Escolar\obj\Debug\netcoreapp2.2\Média Escolar.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Média Escolar\obj\Debug\netcoreapp2.2\Média Escolar.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Média Escolar\obj\Debug\netcoreapp2.2\Média Escolar.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Média Escolar\bin\Debug\netcoreapp2.2\Média Escolar.deps.json
+C:\Users\fic\Desktop\Csharp\Média Escolar\bin\Debug\netcoreapp2.2\Média Escolar.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Média Escolar\bin\Debug\netcoreapp2.2\Média Escolar.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Média Escolar\bin\Debug\netcoreapp2.2\Média Escolar.dll
+C:\Users\fic\Desktop\Csharp\Média Escolar\bin\Debug\netcoreapp2.2\Média Escolar.pdb
+C:\Users\fic\Desktop\Csharp\Média Escolar\obj\Debug\netcoreapp2.2\Média Escolar.dll
+C:\Users\fic\Desktop\Csharp\Média Escolar\obj\Debug\netcoreapp2.2\Média Escolar.pdb
