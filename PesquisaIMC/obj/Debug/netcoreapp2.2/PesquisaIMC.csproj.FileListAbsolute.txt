@@ -1,0 +1,11 @@
+E:\Desktop\csharp-codexp\PesquisaIMC\obj\Debug\netcoreapp2.2\PesquisaIMC.csprojAssemblyReference.cache
+E:\Desktop\csharp-codexp\PesquisaIMC\obj\Debug\netcoreapp2.2\PesquisaIMC.csproj.CoreCompileInputs.cache
+E:\Desktop\csharp-codexp\PesquisaIMC\obj\Debug\netcoreapp2.2\PesquisaIMC.AssemblyInfoInputs.cache
+E:\Desktop\csharp-codexp\PesquisaIMC\obj\Debug\netcoreapp2.2\PesquisaIMC.AssemblyInfo.cs
+E:\Desktop\csharp-codexp\PesquisaIMC\bin\Debug\netcoreapp2.2\PesquisaIMC.deps.json
+E:\Desktop\csharp-codexp\PesquisaIMC\bin\Debug\netcoreapp2.2\PesquisaIMC.runtimeconfig.json
+E:\Desktop\csharp-codexp\PesquisaIMC\bin\Debug\netcoreapp2.2\PesquisaIMC.runtimeconfig.dev.json
+E:\Desktop\csharp-codexp\PesquisaIMC\bin\Debug\netcoreapp2.2\PesquisaIMC.dll
+E:\Desktop\csharp-codexp\PesquisaIMC\bin\Debug\netcoreapp2.2\PesquisaIMC.pdb
+E:\Desktop\csharp-codexp\PesquisaIMC\obj\Debug\netcoreapp2.2\PesquisaIMC.dll
+E:\Desktop\csharp-codexp\PesquisaIMC\obj\Debug\netcoreapp2.2\PesquisaIMC.pdb
