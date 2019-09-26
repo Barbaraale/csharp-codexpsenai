@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexp\Aprendendo Função\bin\Debug\netcoreapp2.2\Aprendendo Função.deps.json
+C:\Users\fic\Desktop\csharp-codexp\Aprendendo Função\bin\Debug\netcoreapp2.2\Aprendendo Função.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexp\Aprendendo Função\bin\Debug\netcoreapp2.2\Aprendendo Função.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexp\Aprendendo Função\bin\Debug\netcoreapp2.2\Aprendendo Função.dll
+C:\Users\fic\Desktop\csharp-codexp\Aprendendo Função\bin\Debug\netcoreapp2.2\Aprendendo Função.pdb
+C:\Users\fic\Desktop\csharp-codexp\Aprendendo Função\obj\Debug\netcoreapp2.2\Aprendendo Função.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexp\Aprendendo Função\obj\Debug\netcoreapp2.2\Aprendendo Função.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\Aprendendo Função\obj\Debug\netcoreapp2.2\Aprendendo Função.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexp\Aprendendo Função\obj\Debug\netcoreapp2.2\Aprendendo Função.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexp\Aprendendo Função\obj\Debug\netcoreapp2.2\Aprendendo Função.dll
+C:\Users\fic\Desktop\csharp-codexp\Aprendendo Função\obj\Debug\netcoreapp2.2\Aprendendo Função.pdb
