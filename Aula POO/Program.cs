@@ -29,6 +29,7 @@ namespace Aula_POO
             Documento: {aluno1.Rg}
             Idade: {aluno1.Idade}
             ");
+            
 
         }
     }
