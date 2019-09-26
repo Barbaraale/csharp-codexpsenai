@@ -30,7 +30,8 @@ namespace Aula_POO
             Idade: {aluno1.Idade}
             ");
 
-            
+
+
 
         }
     }
