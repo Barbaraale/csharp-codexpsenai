@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Mouse\bin\Debug\netcoreapp2.2\Mouse.deps.json
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Mouse\bin\Debug\netcoreapp2.2\Mouse.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Mouse\bin\Debug\netcoreapp2.2\Mouse.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Mouse\bin\Debug\netcoreapp2.2\Mouse.dll
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Mouse\bin\Debug\netcoreapp2.2\Mouse.pdb
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Mouse\obj\Debug\netcoreapp2.2\Mouse.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Mouse\obj\Debug\netcoreapp2.2\Mouse.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Mouse\obj\Debug\netcoreapp2.2\Mouse.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Mouse\obj\Debug\netcoreapp2.2\Mouse.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Mouse\obj\Debug\netcoreapp2.2\Mouse.dll
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Mouse\obj\Debug\netcoreapp2.2\Mouse.pdb

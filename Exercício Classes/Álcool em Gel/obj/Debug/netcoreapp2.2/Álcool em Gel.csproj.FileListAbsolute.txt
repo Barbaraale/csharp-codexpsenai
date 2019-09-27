@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Álcool em Gel\bin\Debug\netcoreapp2.2\Álcool em Gel.deps.json
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Álcool em Gel\bin\Debug\netcoreapp2.2\Álcool em Gel.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Álcool em Gel\bin\Debug\netcoreapp2.2\Álcool em Gel.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Álcool em Gel\bin\Debug\netcoreapp2.2\Álcool em Gel.dll
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Álcool em Gel\bin\Debug\netcoreapp2.2\Álcool em Gel.pdb
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Álcool em Gel\obj\Debug\netcoreapp2.2\Álcool em Gel.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Álcool em Gel\obj\Debug\netcoreapp2.2\Álcool em Gel.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Álcool em Gel\obj\Debug\netcoreapp2.2\Álcool em Gel.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Álcool em Gel\obj\Debug\netcoreapp2.2\Álcool em Gel.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Álcool em Gel\obj\Debug\netcoreapp2.2\Álcool em Gel.dll
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Álcool em Gel\obj\Debug\netcoreapp2.2\Álcool em Gel.pdb

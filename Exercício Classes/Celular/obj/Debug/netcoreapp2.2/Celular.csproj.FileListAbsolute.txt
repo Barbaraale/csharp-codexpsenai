@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Celular\bin\Debug\netcoreapp2.2\Celular.deps.json
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Celular\bin\Debug\netcoreapp2.2\Celular.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Celular\bin\Debug\netcoreapp2.2\Celular.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Celular\bin\Debug\netcoreapp2.2\Celular.dll
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Celular\bin\Debug\netcoreapp2.2\Celular.pdb
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Celular\obj\Debug\netcoreapp2.2\Celular.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Celular\obj\Debug\netcoreapp2.2\Celular.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Celular\obj\Debug\netcoreapp2.2\Celular.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Celular\obj\Debug\netcoreapp2.2\Celular.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Celular\obj\Debug\netcoreapp2.2\Celular.dll
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Celular\obj\Debug\netcoreapp2.2\Celular.pdb

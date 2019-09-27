@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Mesa\bin\Debug\netcoreapp2.2\Mesa.deps.json
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Mesa\bin\Debug\netcoreapp2.2\Mesa.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Mesa\bin\Debug\netcoreapp2.2\Mesa.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Mesa\bin\Debug\netcoreapp2.2\Mesa.dll
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Mesa\bin\Debug\netcoreapp2.2\Mesa.pdb
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Mesa\obj\Debug\netcoreapp2.2\Mesa.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Mesa\obj\Debug\netcoreapp2.2\Mesa.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Mesa\obj\Debug\netcoreapp2.2\Mesa.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Mesa\obj\Debug\netcoreapp2.2\Mesa.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Mesa\obj\Debug\netcoreapp2.2\Mesa.dll
+C:\Users\fic\Desktop\csharp-codexpsenai\Exercício Classes\Mesa\obj\Debug\netcoreapp2.2\Mesa.pdb
