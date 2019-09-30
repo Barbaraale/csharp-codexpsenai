@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexpsenai\Aprendendo Herança\bin\Debug\netcoreapp2.2\Aprendendo Herança.deps.json
+C:\Users\fic\Desktop\csharp-codexpsenai\Aprendendo Herança\bin\Debug\netcoreapp2.2\Aprendendo Herança.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexpsenai\Aprendendo Herança\bin\Debug\netcoreapp2.2\Aprendendo Herança.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexpsenai\Aprendendo Herança\bin\Debug\netcoreapp2.2\Aprendendo Herança.dll
+C:\Users\fic\Desktop\csharp-codexpsenai\Aprendendo Herança\bin\Debug\netcoreapp2.2\Aprendendo Herança.pdb
+C:\Users\fic\Desktop\csharp-codexpsenai\Aprendendo Herança\obj\Debug\netcoreapp2.2\Aprendendo Herança.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexpsenai\Aprendendo Herança\obj\Debug\netcoreapp2.2\Aprendendo Herança.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexpsenai\Aprendendo Herança\obj\Debug\netcoreapp2.2\Aprendendo Herança.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexpsenai\Aprendendo Herança\obj\Debug\netcoreapp2.2\Aprendendo Herança.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexpsenai\Aprendendo Herança\obj\Debug\netcoreapp2.2\Aprendendo Herança.dll
+C:\Users\fic\Desktop\csharp-codexpsenai\Aprendendo Herança\obj\Debug\netcoreapp2.2\Aprendendo Herança.pdb
