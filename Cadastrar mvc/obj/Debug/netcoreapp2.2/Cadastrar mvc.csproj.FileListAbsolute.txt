@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexpsenai\Cadastrar mvc\bin\Debug\netcoreapp2.2\Cadastrar mvc.deps.json
+C:\Users\fic\Desktop\csharp-codexpsenai\Cadastrar mvc\bin\Debug\netcoreapp2.2\Cadastrar mvc.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexpsenai\Cadastrar mvc\bin\Debug\netcoreapp2.2\Cadastrar mvc.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexpsenai\Cadastrar mvc\bin\Debug\netcoreapp2.2\Cadastrar mvc.dll
+C:\Users\fic\Desktop\csharp-codexpsenai\Cadastrar mvc\bin\Debug\netcoreapp2.2\Cadastrar mvc.pdb
+C:\Users\fic\Desktop\csharp-codexpsenai\Cadastrar mvc\obj\Debug\netcoreapp2.2\Cadastrar mvc.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexpsenai\Cadastrar mvc\obj\Debug\netcoreapp2.2\Cadastrar mvc.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexpsenai\Cadastrar mvc\obj\Debug\netcoreapp2.2\Cadastrar mvc.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexpsenai\Cadastrar mvc\obj\Debug\netcoreapp2.2\Cadastrar mvc.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexpsenai\Cadastrar mvc\obj\Debug\netcoreapp2.2\Cadastrar mvc.dll
+C:\Users\fic\Desktop\csharp-codexpsenai\Cadastrar mvc\obj\Debug\netcoreapp2.2\Cadastrar mvc.pdb

@@ -1,4 +1,6 @@
 using System;
+using System.Collections.Generic;
+
 namespace Aprendendo_Herança.Model
 
 {
@@ -6,20 +8,26 @@ namespace Aprendendo_Herança.Model
     {
         public string Cargo { get; set; }
 
+        
+
         public void Trabalhar(){
             Console.WriteLine("Agora vamos trabalhar!");
         }
 
-        public void CadastrarFuncionario(){
+        public FuncionarioModel CadastrarFuncionario(){
+
+            FuncionarioModel funcionario = new FuncionarioModel();
             
             Console.Write("Digite o nome do funcionário: ");
-            Nome = Console.ReadLine();
+            funcionario.Nome = Console.ReadLine();
 
             Console.Write("Digite a idade do funcionário: ");
-            Idade = int.Parse(Console.ReadLine());
+            funcionario.Idade = int.Parse(Console.ReadLine());
 
             Console.Write("Digite o cargo do funcionário: ");
-            Cargo = Console.ReadLine();
+            funcionario.Cargo = Console.ReadLine();
+
+            return funcionario;
         }
 
     }

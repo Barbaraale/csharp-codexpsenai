@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using Aprendendo_Herança.Model;
 
 namespace Aprendendo_Herança
@@ -8,6 +9,8 @@ namespace Aprendendo_Herança
         static void Main(string[] args)
         {
             Console.WriteLine("Aprendendo Herança");
+
+            List<FuncionarioModel> listaDeFuncionarios = new List<FuncionarioModel>(); 
 
             int opcao;
             
@@ -26,7 +29,13 @@ namespace Aprendendo_Herança
                 {
                     case 1:
                         //Cadastrar
-                        funcionario.CadastrarFuncionario();
+                        FuncionarioModel fun = funcionario.CadastrarFuncionario();
+                        listaDeFuncionarios.Add(fun);
+
+                        foreach (var func in listaDeFuncionarios)
+                        {
+                            Console.WriteLine($"Funcionário: {func.Nome}, Cargo: {func.Cargo}");
+                        }
                     break;
 
                     case 2:
