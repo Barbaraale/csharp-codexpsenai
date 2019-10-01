@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\csharp-codexpsenai\Atividade OO\bin\Debug\netcoreapp2.2\Atividade OO.deps.json
+C:\Users\fic\Desktop\csharp-codexpsenai\Atividade OO\bin\Debug\netcoreapp2.2\Atividade OO.runtimeconfig.json
+C:\Users\fic\Desktop\csharp-codexpsenai\Atividade OO\bin\Debug\netcoreapp2.2\Atividade OO.runtimeconfig.dev.json
+C:\Users\fic\Desktop\csharp-codexpsenai\Atividade OO\bin\Debug\netcoreapp2.2\Atividade OO.dll
+C:\Users\fic\Desktop\csharp-codexpsenai\Atividade OO\bin\Debug\netcoreapp2.2\Atividade OO.pdb
+C:\Users\fic\Desktop\csharp-codexpsenai\Atividade OO\obj\Debug\netcoreapp2.2\Atividade OO.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\csharp-codexpsenai\Atividade OO\obj\Debug\netcoreapp2.2\Atividade OO.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\csharp-codexpsenai\Atividade OO\obj\Debug\netcoreapp2.2\Atividade OO.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\csharp-codexpsenai\Atividade OO\obj\Debug\netcoreapp2.2\Atividade OO.AssemblyInfo.cs
+C:\Users\fic\Desktop\csharp-codexpsenai\Atividade OO\obj\Debug\netcoreapp2.2\Atividade OO.dll
+C:\Users\fic\Desktop\csharp-codexpsenai\Atividade OO\obj\Debug\netcoreapp2.2\Atividade OO.pdb

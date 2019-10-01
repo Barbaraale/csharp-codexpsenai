@@ -19,17 +19,17 @@ namespace Cadastrar_mvc.Controllers
             Console.Write("\nDigite seu Nome: ");
             string nome = Console.ReadLine();
 
-            Console.Write("\nDigite seu E-mail: ");
+            Console.Write("Digite seu E-mail: ");
             string email = Console.ReadLine();
 
-            Console.Write("\nDigite sua Senha: ");     
+            Console.Write("Digite sua Senha: ");     
             string senha = Console.ReadLine();
 
             //Instanciando um novo usuário
             UsuarioModel usuario = new UsuarioModel();
 
             //Populando o objeto
-            usuario.Id = 1;
+            usuario.Id = listaDeUsuarios.Count + 1;
             usuario.Nome = nome;
             usuario.Email = email;
             usuario.Senha = senha;
@@ -43,17 +43,37 @@ namespace Cadastrar_mvc.Controllers
         {
             foreach (var usuario in listaDeUsuarios)
             {
-                Console.WriteLine($@"
-                ------------------------------------
-                Usuário: {usuario.Nome}
-                Id: {usuario.Id}
-                E-mail: {usuario.Email}
-                Data do Cadastro: {usuario.DataCriacao}
-                ------------------------------------
-                ");
-            }
-        }
 
-        
+                Console.WriteLine("----------------------------------------");
+                Console.WriteLine($"Usuário: {usuario.Nome}");
+                Console.WriteLine($"Id: {usuario.Id}");
+                Console.WriteLine($"E-mail: {usuario.Email}");
+                Console.WriteLine($"E-mail: {usuario.Email}");
+                Console.WriteLine($"Data do Cadastro: {usuario.DataCriacao}");
+                Console.WriteLine("----------------------------------------");
+                
+            }
+
+        }// fim listar usuários
+
+        public bool Logar()
+        {
+            Console.Write("\nInsira o E-mail: ");
+            string email = Console.ReadLine();
+            
+            Console.Write("Insira sua Senha: ");
+            string senha = Console.ReadLine();
+
+            foreach (var usuario in listaDeUsuarios)
+            {
+                if (usuario.Email == email && usuario.Senha == senha)
+                {
+                    return true;
+                }
+            }//fim foreach
+
+            return false;
+            
+        }//fim Logar
     }
 }
