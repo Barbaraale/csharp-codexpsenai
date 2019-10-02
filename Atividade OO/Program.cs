@@ -30,6 +30,7 @@ namespace Atividade_OO
                     break;
 
                     case 3:
+                        produtoController.TotalPrecoEstoque();
                     break;
 
                     case 0:

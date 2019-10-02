@@ -6,7 +6,11 @@ namespace Atividade_OO.Controllers
 {
     public class ProdutoController
     {
+        //Criando lista do tipo CadastroProdutosModel 
         List<CadastroProdutosModel> listaProdutos = new List<CadastroProdutosModel>();
+
+        //Instanciando produto
+        CadastroProdutosModel produto = new CadastroProdutosModel();
 
         //Começo cadastro produtos
         public void CadastroProduto(){
@@ -22,9 +26,6 @@ namespace Atividade_OO.Controllers
 
             Console.Write("Digite a quantidade em estoque do produto: ");
             int quantidade = int.Parse(Console.ReadLine());
-
-            //Instanciando produto
-            CadastroProdutosModel produto = new CadastroProdutosModel();
 
             produto.Id = listaProdutos.Count + 1;
             produto.Nome = nome;
@@ -55,17 +56,15 @@ namespace Atividade_OO.Controllers
         }// fim lista do produto
 
         //Começo total preço em estoque
+        float precoTotal = 0;
 
-        float totalPrecoEstoque;
-        float somaPrecos = 
-
-        
         public void TotalPrecoEstoque(){
 
             foreach (var preco in listaProdutos)
             {
-               
+                precoTotal += (produto.Preco * produto.QuantidadeEstoque);
             }
+            Console.Write($"Preço total dos produtos em estoque: {precoTotal}");
 
         }
 
