@@ -31,6 +31,7 @@ namespace Atividade_Vingadores
                             Console.WriteLine("\nEscolha a ação:");
                             Console.WriteLine("1 - Atirar Escudo");
                             Console.WriteLine("2 - Defender com Escudo");
+                            Console.WriteLine("0 - Sair");
 
                             acao = int.Parse(Console.ReadLine());
 
@@ -44,11 +45,14 @@ namespace Atividade_Vingadores
                                     Console.Write("Defendendo-se!");
                                 break;
 
+                                case 0:
+                                break;
+
                                 default:
                                     Console.WriteLine("Opção Inválida");
                                 break;
                             }
-                        } while (acao != 0);
+                        } while (acao != 2);
                     break;
 
                     case 2:
@@ -59,6 +63,7 @@ namespace Atividade_Vingadores
                             Console.WriteLine("\nEscolha a ação:");
                             Console.WriteLine("1 - Voar");
                             Console.WriteLine("2 - Atirar");
+                            Console.WriteLine("0 - Sair");
 
                             acao = int.Parse(Console.ReadLine());
 
@@ -76,7 +81,7 @@ namespace Atividade_Vingadores
                                     Console.WriteLine("Opção Inválida");
                                 break;
                             }
-                        } while (acao != 0);
+                        } while (acao != 2);
                     break;
                     
                     case 0:
