@@ -22,6 +22,7 @@ namespace Atividade_Vingadores.Controllers
                 capitaoAmerica.Vida = vida;
                 capitaoAmerica.Cor = cor;
 
+                Console.ForegroundColor = ConsoleColor.Blue;
                 Console.Write("\nO Capitão América está com escudo? (true ou false): ");
                 bool escudo = bool.Parse(Console.ReadLine());
             
@@ -39,12 +40,6 @@ namespace Atividade_Vingadores.Controllers
             }
 
             public void ListaCapitãoAmérica(){
-
-                // System.Console.Write("\nListar informações do personagem? (true ou false): ");
-                // bool lista = bool.Parse(Console.ReadLine());
-
-                // if (lista)
-                // {
                 
                     Console.WriteLine("\nInformações do Personagem\n");
                     Console.WriteLine("Capitão América:");
@@ -53,10 +48,6 @@ namespace Atividade_Vingadores.Controllers
                     Console.WriteLine($"Escudo: {capitaoAmerica.Escudo}");
                     Console.WriteLine($"Cor: {capitaoAmerica.Cor}");
                     Console.WriteLine("\n-------------------------------------------------------------");
-
-                // }else{
-
-                // }
             
             }
 
@@ -70,6 +61,7 @@ namespace Atividade_Vingadores.Controllers
                 homemFerro.Vida = vida;
                 homemFerro.Cor = cor;
             
+                Console.ForegroundColor = ConsoleColor.Red;
                 Console.Write("\nO Homem de Ferro está com a armadura? (true ou false): ");
                 bool armadura = bool.Parse(Console.ReadLine());
 

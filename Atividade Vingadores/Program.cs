@@ -14,6 +14,7 @@ namespace Atividade_Vingadores
 
             do
             {
+                Console.ForegroundColor = ConsoleColor.White;
                 Console.WriteLine("\n-------------------------------------------------------------");
                 Console.WriteLine("\nMenu Principal\n");
                 Console.WriteLine("Escolha o Personagem:\n");
@@ -71,7 +72,7 @@ namespace Atividade_Vingadores
                         
                         do
                         {
-                            Console.WriteLine("\nEscolha uma ação:");
+                            Console.WriteLine("\nEscolha uma ação ou volte ao menu principal\n");
                             Console.WriteLine("1 - Voar");
                             Console.WriteLine("2 - Atirar");
                             Console.WriteLine("0 - Menu Principal\n");
@@ -102,7 +103,7 @@ namespace Atividade_Vingadores
                     break;
                     
                     case 0:
-                        Console.WriteLine("\nObrigado por jogar!\n");
+                        Console.WriteLine("\nAté a próxima!\n");
                     break;
 
                     default:
