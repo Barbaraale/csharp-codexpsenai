@@ -14,82 +14,99 @@ namespace Atividade_Vingadores
 
             do
             {
-                Console.WriteLine("\nEscolha o Personagem:");
+                Console.WriteLine("\n-------------------------------------------------------------");
+                Console.WriteLine("\nMenu Principal\n");
+                Console.WriteLine("Escolha o Personagem:\n");
                 Console.WriteLine("1 - Capitão América");
                 Console.WriteLine("2 - Homem de Ferro");
                 Console.WriteLine("0 - Sair\n");
 
                 jogador = int.Parse(Console.ReadLine());
 
+                Console.WriteLine("\n-------------------------------------------------------------");
+
                 switch (jogador)
                 {
                     case 1:
                         jogoController.CapitaoAmerica();
 
-                        do
+                        jogoController.ListaCapitãoAmérica();
+
+                        do 
                         {
-                            Console.WriteLine("\nEscolha a ação:");
+                            Console.WriteLine("\nEscolha uma ação ou volte ao menu principal\n");
                             Console.WriteLine("1 - Atirar Escudo");
                             Console.WriteLine("2 - Defender com Escudo");
-                            Console.WriteLine("0 - Sair");
+                            Console.WriteLine("0 - Menu Principal\n");
 
                             acao = int.Parse(Console.ReadLine());
 
                             switch (acao)
                             {
                                 case 1:
-                                    Console.Write("Atirando o Escudo!");
+                                    Console.Write("\nAtirando o Escudo!\n");
+                                    Console.WriteLine("\n-------------------------------------------------------------");
                                 break;
 
                                 case 2:
-                                    Console.Write("Defendendo-se!");
+                                    Console.Write("\nDefendendo-se!\n");
+                                    Console.WriteLine("\n-------------------------------------------------------------");
                                 break;
 
                                 case 0:
+
                                 break;
 
                                 default:
-                                    Console.WriteLine("Opção Inválida");
+                                    Console.WriteLine("\nOpção inválida! Escolha entre 0 e 2.\n");
                                 break;
                             }
-                        } while (acao != 2);
+                        } while (acao != 0);
                     break;
 
                     case 2:
                         jogoController.HomemFerro();
+
+                        jogoController.ListaHomemFerro();
                         
                         do
                         {
-                            Console.WriteLine("\nEscolha a ação:");
+                            Console.WriteLine("\nEscolha uma ação:");
                             Console.WriteLine("1 - Voar");
                             Console.WriteLine("2 - Atirar");
-                            Console.WriteLine("0 - Sair");
+                            Console.WriteLine("0 - Menu Principal\n");
 
                             acao = int.Parse(Console.ReadLine());
 
                             switch (acao)
                             {
                                 case 1:
-                                    Console.Write("Voando!");
+                                    Console.Write("\nVoando!\n");
+                                    Console.WriteLine("\n-------------------------------------------------------------");
                                 break;
 
                                 case 2:
-                                    Console.Write("Atirando!");
+                                    Console.Write("\nAtirando!\n");
+                                    Console.WriteLine("\n-------------------------------------------------------------");
+                                break;
+
+                                case 0:
+
                                 break;
 
                                 default:
-                                    Console.WriteLine("Opção Inválida");
+                                    Console.WriteLine("\nOpção inválida! Escolha entre 0 e 2.\n");
                                 break;
                             }
-                        } while (acao != 2);
+                        } while (acao != 0);
                     break;
                     
                     case 0:
-                        Console.WriteLine("Obrigada por jogar!");
+                        Console.WriteLine("\nObrigado por jogar!\n");
                     break;
 
                     default:
-                        System.Console.WriteLine("Opção inválida! Escolha de 0 a 2");
+                        System.Console.WriteLine("\nOpção inválida! Escolha entre 0 e 2.\n");
                     break;
                 }
 

@@ -9,3 +9,14 @@ C:\Users\fic\Desktop\csharp-codexpsenai\Atividade Vingadores\obj\Debug\netcoreap
 C:\Users\fic\Desktop\csharp-codexpsenai\Atividade Vingadores\obj\Debug\netcoreapp2.2\Atividade Vingadores.AssemblyInfo.cs
 C:\Users\fic\Desktop\csharp-codexpsenai\Atividade Vingadores\obj\Debug\netcoreapp2.2\Atividade Vingadores.dll
 C:\Users\fic\Desktop\csharp-codexpsenai\Atividade Vingadores\obj\Debug\netcoreapp2.2\Atividade Vingadores.pdb
+C:\Users\B.O.A\Desktop\csharp-codexpsenai\Atividade Vingadores\obj\Debug\netcoreapp2.2\Atividade Vingadores.csprojAssemblyReference.cache
+C:\Users\B.O.A\Desktop\csharp-codexpsenai\Atividade Vingadores\obj\Debug\netcoreapp2.2\Atividade Vingadores.csproj.CoreCompileInputs.cache
+C:\Users\B.O.A\Desktop\csharp-codexpsenai\Atividade Vingadores\obj\Debug\netcoreapp2.2\Atividade Vingadores.AssemblyInfoInputs.cache
+C:\Users\B.O.A\Desktop\csharp-codexpsenai\Atividade Vingadores\obj\Debug\netcoreapp2.2\Atividade Vingadores.AssemblyInfo.cs
+C:\Users\B.O.A\Desktop\csharp-codexpsenai\Atividade Vingadores\obj\Debug\netcoreapp2.2\Atividade Vingadores.dll
+C:\Users\B.O.A\Desktop\csharp-codexpsenai\Atividade Vingadores\obj\Debug\netcoreapp2.2\Atividade Vingadores.pdb
+C:\Users\B.O.A\Desktop\csharp-codexpsenai\Atividade Vingadores\bin\Debug\netcoreapp2.2\Atividade Vingadores.deps.json
+C:\Users\B.O.A\Desktop\csharp-codexpsenai\Atividade Vingadores\bin\Debug\netcoreapp2.2\Atividade Vingadores.runtimeconfig.json
+C:\Users\B.O.A\Desktop\csharp-codexpsenai\Atividade Vingadores\bin\Debug\netcoreapp2.2\Atividade Vingadores.runtimeconfig.dev.json
+C:\Users\B.O.A\Desktop\csharp-codexpsenai\Atividade Vingadores\bin\Debug\netcoreapp2.2\Atividade Vingadores.dll
+C:\Users\B.O.A\Desktop\csharp-codexpsenai\Atividade Vingadores\bin\Debug\netcoreapp2.2\Atividade Vingadores.pdb
